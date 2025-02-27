@@ -27,5 +27,27 @@ namespace prgit
             number = a.Next(1, 100);
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (Convert.ToInt32(textBox1.Text) == number)
+                {
+                    MessageBox.Show("Вы угадали! Новое число загадано");
+                    generate();
+                }
+                else
+                if (Convert.ToInt32(textBox1.Text) < number)
+                {
+                    MessageBox.Show("Число меньше загаданного!");
+                }
+                else
+                if (Convert.ToInt32(textBox1.Text) > number)
+                {
+                    MessageBox.Show("Число больше загаданного!");
+                }
+            }
+            catch { MessageBox.Show("Введитте число!"); }
+        }
     }
 }
