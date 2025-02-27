@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0440\u0430\u0431\u043E\u0442\u044B\\prgit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E54EBE6-947F-4115-A62C-8BB4D09216C8}|prgit\\prgit.csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0440\u0430\u0431\u043E\u0442\u044B\\prgit\\prgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E54EBE6-947F-4115-A62C-8BB4D09216C8}|prgit\\prgit.csproj|solutionrelative:prgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E54EBE6-947F-4115-A62C-8BB4D09216C8}|prgit\\prgit.csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0440\u0430\u0431\u043E\u0442\u044B\\prgit\\prgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E54EBE6-947F-4115-A62C-8BB4D09216C8}|prgit\\prgit.csproj|solutionrelative:prgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 417,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0440\u0430\u0431\u043E\u0442\u044B\\prgit\\prgit\\Form1.cs",
+              "RelativeDocumentMoniker": "prgit\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0440\u0430\u0431\u043E\u0442\u044B\\prgit\\prgit\\Form1.cs",
+              "RelativeToolTip": "prgit\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:41:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0440\u0430\u0431\u043E\u0442\u044B\\prgit\\prgit\\Form1.cs",
+              "RelativeDocumentMoniker": "prgit\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0440\u0430\u0431\u043E\u0442\u044B\\prgit\\prgit\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "prgit\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:41:04.522Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
